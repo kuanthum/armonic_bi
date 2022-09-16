@@ -1,0 +1,1682 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head prefix="og: http://ogp.me/ns/website#">
+  <meta charset="utf-8"/>
+  <!-- TradeDoubler site verification 2549286 -->
+  <!-- TradeDoubler site verification 3025000 -->
+  <title>
+   Avantasia - Let the Storm Descend Upon You Chords - Chordify
+  </title>
+  <link href="https://chordify.net/img/icons/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="https://chordify.net/img/icons/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="https://chordify.net/img/icons/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+  <link href="https://chordify.net/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" rel="canonical"/>
+  <link href="https://chordify.net/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" hreflang="x-default" rel="alternate"/>
+  <link href="https://chordify.net/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" hreflang="en" rel="alternate"/>
+  <link href="https://chordify.net/fr/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" hreflang="fr" rel="alternate"/>
+  <link href="https://chordify.net/es/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" hreflang="es" rel="alternate"/>
+  <link href="https://chordify.net/de/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" hreflang="de" rel="alternate"/>
+  <link href="https://chordify.net/it/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" hreflang="it" rel="alternate"/>
+  <link href="https://chordify.net/nl/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" hreflang="nl" rel="alternate"/>
+  <link href="https://chordify.net/pt-BR/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" hreflang="pt-BR" rel="alternate"/>
+  <link href="https://chrome.google.com/webstore/detail/ojbmddiahnkphhipnimckolcndkcgjgn" rel="chrome-webstore-item"/>
+  <link href="//i.ytimg.com" rel="dns-prefetch"/>
+  <link href="//s.ytimg.com" rel="dns-prefetch"/>
+  <link href="//i3.ytimg.com" rel="dns-prefetch"/>
+  <link href="https://chordify.net/img/icons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="https://chordify.net/img/icons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="https://chordify.net/img/icons/icon-512x512.png" rel="shortcut icon" sizes="512x512"/>
+  <link color="#669999" href="https://chordify.net/img/safari_pinned_tab.svg" rel="mask-icon"/>
+  <link href="http://purl.org/dc/terms/" rel="schema.DC"/>
+  <link href="https://chordify.net/opensearch.xml" rel="search" title="Chordify Search" type="application/opensearchdescription+xml">
+   <link as="font" crossorigin="" href="https://chordify.net/css/fonts/TheSansB_500_.woff2" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="" href="https://chordify.net/css/fonts/TheSansB_700_.woff2" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="" href="https://chordify.net/icons-font/icons.woff2?1acbf8229b71482700bad7945ccc2377" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="" href="https://chordify.net/css/chord-font/english/fonts/chords.woff2?6ddgop" rel="preload" type="font/woff2"/>
+   <link href="https://chordify.net/css-bundles/commons.css?1659626535" rel="stylesheet" type="text/css"/>
+   <noscript>
+    <link href="https://chordify.net/icons-font/icons.css?1659626535" rel="stylesheet" type="text/css"/>
+    <link href="https://chordify.net/css/chord-font/english/style.css?1614006001" rel="stylesheet" type="text/css"/>
+   </noscript>
+   <script>
+    (function(){
+				function loadCSS(f){
+					var c = document.createElement('link');
+					c.rel = 'stylesheet';c.href = f;c.type = 'text/css';
+					document.getElementsByTagName('head')[0].appendChild(c);
+				}
+				loadCSS('https://chordify.net/icons-font/icons.css?1659626535');
+				loadCSS('https://chordify.net/css/chord-font/english/style.css?1614006001');
+			}());
+   </script>
+   <meta content="yes" name="apple-web-app-capable"/>
+   <meta content="9f8f57086c918a0ccc308c33041e85f6" name="csrf-token"/>
+   <meta content="Chords for Avantasia - Let the Storm Descend Upon You.: Ab, Fm, Dm, C.  Play along with guitar, ukulele, or piano with interactive chords and diagrams. Includes transpose, capo hints, changing speed and much more." name="DC.description"/>
+   <meta content="Avantasia - Let the Storm Descend Upon You Chords - Chordify" name="DC.title"/>
+   <meta content="Chords for Avantasia - Let the Storm Descend Upon You.: Ab, Fm, Dm, C.  Play along with guitar, ukulele, or piano with interactive chords and diagrams. Includes transpose, capo hints, changing speed and much more." name="description"/>
+   <meta content="bvrxtdmc59na9ui4oj9uasq08hhpm5" name="facebook-domain-verification"/>
+   <meta content="yes" name="mobile-web-app-capable"/>
+   <meta content="index,follow" name="robots"/>
+   <meta content="#669999" name="theme-color"/>
+   <meta content="https://i.ytimg.com/vi/3ZJgUvhhKpE/maxresdefault.jpg" name="thumbnail"/>
+   <meta content="821e154acc8f3bbf3cc1dfe33ed9aa1b5e306193" name="tradetracker-site-verification"/>
+   <meta content="summary" name="twitter:card"/>
+   <meta content="chordify.net" name="twitter:domain"/>
+   <meta content="@chordify" name="twitter:site"/>
+   <meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0" name="viewport"/>
+   <meta content="584573584902944" property="fb:app_id"/>
+   <meta content="website" property="og:type"/>
+   <meta content="Chords for Avantasia - Let the Storm Descend Upon You.: Ab, Fm, Dm, C.  Play along with guitar, ukulele, or piano with interactive chords and diagrams. Includes transpose, capo hints, changing speed and much more." property="og:description"/>
+   <meta content="https://i.ytimg.com/vi/3ZJgUvhhKpE/maxresdefault.jpg" property="og:image"/>
+   <meta content="Avantasia - Let the Storm Descend Upon You Chords - Chordify" property="og:title"/>
+   <meta content="https://chordify.net/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" property="og:url"/>
+   <link href="https://chordify.net/css/chordify.css?1655296190" media="screen" rel="stylesheet" type="text/css">
+    <script>
+     window.loadUrl = '/api/v2/songs/youtube:3ZJgUvhhKpE/chords?vocabulary=extended_inversions';
+	window.simpleChordsUrl = '/api/v2/songs/youtube:3ZJgUvhhKpE/chords?vocabulary=maj_min';
+	window.embedHost = 'https://cloudfastcdn.net';
+    </script>
+    <link as="fetch" crossorigin="" href="/api/v2/songs/youtube:3ZJgUvhhKpE/chords?vocabulary=extended_inversions" rel="preload" type="application/json"/>
+    <link href="https://cloudfastcdn.net" rel="preconnect"/>
+    <script>
+     window.Consent = { ask: function(){}, data: {"analytics":true,"audienceInsights":true,"deviceStorage":true,"measureAds":true,"personalisedContent":true}, scriptLoaded: true };
+window.needsConsent = false;
+window.googlefc = window.googlefc || {};
+window.googlefc.ccpa = window.googlefc.ccpa || {}
+window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
+    </script>
+    <script id="fcScript" src="https://chordify.net/js/fundingchoices.js?1614006001" type="text/javascript">
+    </script>
+    <script data-src="https://cdn.fuseplatform.net/publift/tags/2/2454/fuse.js" id="fuseSdk">
+    </script>
+    <script defer="" src="https://chordify.net/js/ads-prebid.js?1651665685" type="text/javascript">
+    </script>
+    <script src="https://chordify.net/js-bundles/immediate-lgc-compat-bundle.js?1659431415" type="text/javascript">
+    </script>
+    <meta content="app-id=1073624757, app-argument=https://chordify.net/chords/avantasia-songs/let-the-storm-descend-upon-you-chords, app-clip-bundle-id=net.chordify.Chordify.Clip" name="apple-itunes-app"/>
+    <script defer="" src="https://chordify.net/js/jquery.min-2.0.3.js?1614006001">
+    </script>
+    <script crossorigin="anonymous" defer="" src="https://chordify.net/js-bundles/chordify-lgc-compat-bundle.js?1659431415" type="text/javascript">
+    </script>
+    <script defer="" src="https://chordify.net/js/lang.js?1660052744&amp;lang=en" type="text/javascript">
+    </script>
+    <script crossorigin="anonymous" defer="" src="https://chordify.net/js-bundles/song-lgc-compat-bundle.js?1659536537" type="text/javascript">
+    </script>
+    <script crossorigin="anonymous" defer="" src="https://chordify.net/js-bundles/songpage-compat-bundle.js?1660057452" type="text/javascript">
+    </script>
+    <style id="freeCss" media="print" rel="stylesheet">
+     #youtube,#topbar,#content,#header,.tooltip,#checkoutPopup,iframe,div,#background{display:none;}
+body{background:white url(/img/premium/print.png) 50% 50px no-repeat;-webkit-print-color-adjust:exact;padding:120px 0 0 0;}
+body:before{content:'Subscribe to Chordify Premium to enable printing.';text-align:center;font:12pt Verdana;display:block;}
+    </style>
+    <link data-editlazyload="https://chordify.net/css/song-edit.css?1655296190" rel="stylesheet" type="text/css"/>
+    <script crossorigin="anonymous" data-editlazyload="https://chordify.net/js-bundles/song-edit-lgc-bundle.js?1658840956" type="text/javascript">
+    </script>
+    <link href="https://chordify.net/css-bundles/songpage.css?1659602381" rel="stylesheet" type="text/css">
+     <!-- Google Tag Manager -->
+     <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MSS43GQ');
+     </script>
+     <!-- End Google Tag Manager -->
+     <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-VX6BB0BSMK">
+     </script>
+     <script type="text/javascript">
+      window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+
+gtag('js', new Date());
+
+
+gtag('config', 'G-VX6BB0BSMK', {
+		'allow_google_signals': false,
+	'anonymize_ip': true,
+});
+     </script>
+     <script type="text/javascript">
+      /** @deprecated */
+window.ua = function ga(target, hitType, category, action, label, value) {
+	if (target !== 'send') {
+		return console.error('This function only captures events and pageviews.');
+	}
+
+	if (hitType === 'pageview') {
+		return gtag('event', 'page_view', { 'send_to': 'UA-35450810-1' });
+	}
+
+	return gtag('event', action, {
+		'event_category': category,
+		'event_label': label,
+		'value': value,
+		'send_to': 'UA-35450810-1',
+	});
+}
+if (window.Consent !== undefined && Consent.get !== undefined) {
+	Consent.get('audienceInsights', function(consent){
+		if( consent ){
+			gtag('set', 'allow_google_signals', true);
+			gtag('set', 'allow_ad_personalization_signals', true);
+		}
+	});
+}
+
+	gtag('set', { dimension1: 'Guest' });
+	gtag('set', { dimension2: 'AR' });
+	gtag('set', { dimension4: 'en' });
+	gtag('set', { dimension7: 'guitar' });
+	gtag('set', { dimension5: 'youtube' });
+	gtag('set', { dimension8: 'Version 8' });
+
+
+gtag('event', 'page_view', { 'send_to': 'UA-35450810-1' });
+     </script>
+     <script type="text/javascript">
+      window.addEventListener('load', function() {
+		
+			(function(h,o,t,j,a,r){
+				h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+				h._hjSettings={hjid:1550560,hjsv:6};
+				a=o.getElementsByTagName('head')[0];
+				r=o.createElement('script');r.async=1;
+				r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+				a.appendChild(r);
+			})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+		
+
+		var hjTags = [];
+		var hjAttributes = {};
+
+					hjTags.push('MemberType:Guest');
+			hjAttributes['MemberType'] = 'Guest';
+
+			
+							hjTags.push('FirstVisit');
+				hjAttributes['FirstVisit'] = 'Yes';
+			
+							hjAttributes['Country'] = 'AR';
+					
+    
+		hj('tagRecording', hjTags);
+    // No user ID due to GDPR, use null instead and let Hotjar generate their own ID
+		hj('identify', null, hjAttributes);
+
+			})
+     </script>
+     <noscript>
+      <img height="1" src="https://www.facebook.com/tr?id=257449399114012&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+     </noscript>
+     <script defer="" src="https://chordify.net/js-bundles/vendors-compat-bundle.js?1658840956" type="text/javascript">
+     </script>
+     <script defer="" src="https://chordify.net/js-bundles/commons-compat-bundle.js?1660145844" type="text/javascript">
+     </script>
+    </link>
+   </link>
+  </link>
+ </head>
+ <body class="chordspage indexaction lang-en songpage user-free external-referer user-first user-intro has-campaign-popup" data-device="unknown" data-userid="_fake_1660543612_13239">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-MSS43GQ" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div id="fb-root">
+  </div>
+  <div class="chordlang-english" data-relatedchannel="premium" id="song-data">
+  </div>
+  <div data-orientation="right" id="user-data">
+  </div>
+  <div id="songpage">
+   <a class="bvpzij4 l1amswbe" href="/premium?utm_source=website&amp;utm_medium=notification+bar&amp;utm_campaign=summer-sale-2022" style="--l1amswbe-0:inherit;--l1amswbe-1:none;--bvpzij4-0:#F8F8F8;--bvpzij4-2:80px">
+    <span class="c1terhky">
+     <button class="b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:5px;--b136ilgh-4:auto">
+      <i class="icon-close i1kwkbx9" size="20" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:20px">
+      </i>
+     </button>
+    </span>
+    <img alt="Summer Sale! Enjoy 50% off Premium" class="iuw1jzk iwzmvkf" height="80" src="/img/campaigns/1e7c0a97534d6e5f689f541a801bbd47710edb59.jpg" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0"/>
+   </a>
+   <div class="h1jcomrk">
+    <a class="bvpzij4 l1amswbe" href="/premium?utm_source=website&amp;utm_medium=notification+bar&amp;utm_campaign=summer-sale-2022" style="--l1amswbe-0:inherit;--l1amswbe-1:none;--bvpzij4-0:#F8F8F8;--bvpzij4-2:80px">
+     <span class="c1terhky">
+      <button class="b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:5px;--b136ilgh-4:auto">
+       <i class="icon-close i1kwkbx9" size="20" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:20px">
+       </i>
+      </button>
+     </span>
+     <img alt="Summer Sale! Enjoy 50% off Premium" class="iuw1jzk iwzmvkf" height="80" src="/img/campaigns/1e7c0a97534d6e5f689f541a801bbd47710edb59.jpg" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0"/>
+    </a>
+    <header class="h8q2g4g">
+     <div class="l1c8t8ro f1swfyax lmcgirf">
+      <div class="wmfq8xk">
+       <a class="a1d7eymq" href="/">
+        <i class="icon-logo i1kwkbx9" size="48" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:48px">
+        </i>
+       </a>
+      </div>
+     </div>
+     <div class="bung0hu m9jgxj">
+      <button class="b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:5px;--b136ilgh-4:auto">
+       <i class="icon-search i1kwkbx9" size="28" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:28px">
+       </i>
+      </button>
+      <div class="pe0mx0d p3hzgj7" style="--p3hzgj7-0:0px;--p3hzgj7-1:absolute;--p3hzgj7-2:35px;--pe0mx0d-1:0;--pe0mx0d-2:none;--pe0mx0d-3:hidden">
+       <div class="s18a8uyp m19f388l">
+        <a class="c13ptd3p rbaee2m i192eexq" href="/de/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" style="--c13ptd3p-0:normal">
+         Deutsch
+        </a>
+        <a class="c13ptd3p rbaee2m i192eexq" href="/en/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" selected="" style="--c13ptd3p-0:bold">
+         English
+         <span class="cd8s5dk">
+          <i class="icon-check i1kwkbx9" size="20" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:20px">
+          </i>
+         </span>
+        </a>
+        <a class="c13ptd3p rbaee2m i192eexq" href="/es/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" style="--c13ptd3p-0:normal">
+         Español
+        </a>
+        <a class="c13ptd3p rbaee2m i192eexq" href="/fr/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" style="--c13ptd3p-0:normal">
+         Français
+        </a>
+        <a class="c13ptd3p rbaee2m i192eexq" href="/nl/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" style="--c13ptd3p-0:normal">
+         Nederlands
+        </a>
+        <a class="c13ptd3p rbaee2m i192eexq" href="/it/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" style="--c13ptd3p-0:normal">
+         Italiano
+        </a>
+        <a class="c13ptd3p rbaee2m i192eexq" href="/pt-BR/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" style="--c13ptd3p-0:normal">
+         Português do Brasil
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="ignore-react-onclickoutside s910im2 f1swfyax">
+      <form action="search" class="fhffw8r">
+       <span class="sjszs15">
+        Press enter or submit to search
+       </span>
+       <span class="tvmjo2p">
+        <input class="s7ugfhf i1k6ss7b" placeholder="Search any song" style="--s7ugfhf-3:transparent" type="search" value=""/>
+        <button class="s1jkewg4 b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto;--s1jkewg4-2:transparent;--s1jkewg4-3:1px" type="submit">
+         <i class="icon-search i1kwkbx9" size="25" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:25px">
+         </i>
+        </button>
+       </span>
+       <button class="c8s465x b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+        <i class="icon-close i1kwkbx9" size="25" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:25px">
+        </i>
+       </button>
+      </form>
+     </div>
+     <div class="pgzc1w5 p1qb8e4v">
+      <button class="ignore-react-onclickoutside u1do9m9i b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+       <i class="icon-upload u10lqsqp i1kwkbx9" size="20" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:20px">
+       </i>
+       Upload song
+      </button>
+      <div class="p1cq4cry pe0mx0d p3hzgj7" style="--p3hzgj7-0:100px;--p3hzgj7-1:absolute;--p3hzgj7-2:35px;--pe0mx0d-1:0;--pe0mx0d-2:translateX(-100%);--pe0mx0d-3:hidden;left:100%;top:35px">
+       <div class="u1lnauth">
+        <i class="icon-lock i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+        </i>
+        <h2 class="h3w46bu">
+         Upload your own music files
+        </h2>
+        <p>
+         This is a Premium feature
+        </p>
+        <a href="#">
+         Get Chordify Premium now
+        </a>
+       </div>
+      </div>
+     </div>
+     <nav class="n4vm9ar ndkipri">
+      <a class="nmwod4x n1wvbqnh n1wucg22 i192eexq" href="/" style="--n1wucg22-0:none;--n1wucg22-1:inherit">
+       Discover
+      </a>
+      <a class="n1wucg22 i192eexq" href="/user/signup" style="--n1wucg22-0:none;--n1wucg22-1:inherit">
+       Create account
+      </a>
+      <span class="nq52s7x n1wvbqnh n1wucg22 i192eexq" style="--n1wucg22-0:none;--n1wucg22-1:inherit">
+       <a class="n1h2c4na" href="/premium" rel="nofollow">
+        Pricing
+       </a>
+      </span>
+      <a class="nt1dthn n1wvbqnh n1wucg22 i192eexq" href="/pages" style="--n1wucg22-0:none;--n1wucg22-1:inherit">
+       Blog
+      </a>
+      <a class="ntoo2fv n1wvbqnh n1wucg22 i192eexq" href="/channels" style="--n1wucg22-0:none;--n1wucg22-1:inherit">
+       Channels
+      </a>
+      <a class="ntoo2fv n1wvbqnh n1wucg22 i192eexq" href="//support.chordify.net/hc/en" rel="nofollow" style="--n1wucg22-0:none;--n1wucg22-1:inherit">
+       Help
+      </a>
+     </nav>
+     <div class="p1qb8e4v">
+      <button aria-label="more" class="djndpqr n85pf8t b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+       <i class="icon-threedots i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+       </i>
+      </button>
+      <div class="pe0mx0d p3hzgj7" data-test-id="dropdown-navigation-desktop" style="--p3hzgj7-0:30px;--p3hzgj7-1:absolute;--p3hzgj7-2:35px;--pe0mx0d-1:0;--pe0mx0d-2:translateX(-100%);--pe0mx0d-3:hidden">
+       <div class="m1ipabt3 m19f388l">
+        <a class="rbaee2m i192eexq" href="/">
+         Discover
+         <span class="r69i06r">
+          <i class="icon-arrow-right r1nek67q i1kwkbx9" size="25" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:25px">
+          </i>
+         </span>
+        </a>
+        <a class="rbaee2m i192eexq" href="/user/signup">
+         Create account
+         <span class="r69i06r">
+          <i class="icon-arrow-right r1nek67q i1kwkbx9" size="25" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:25px">
+          </i>
+         </span>
+        </a>
+        <a class="rbaee2m i192eexq" href="#">
+         Upload song
+         <span class="r69i06r">
+          <i class="icon-arrow-right r1nek67q i1kwkbx9" size="25" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:25px">
+          </i>
+         </span>
+        </a>
+        <a class="n1h2c4na" href="/premium" rel="nofollow">
+         <div class="rbaee2m i192eexq">
+          Pricing
+          <span class="r69i06r">
+           <i class="icon-arrow-right r1nek67q i1kwkbx9" size="25" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:25px">
+           </i>
+          </span>
+         </div>
+        </a>
+       </div>
+       <div class="m19f388l">
+        <a class="r1l29065 r1q5g3mg rbaee2m i192eexq" href="/">
+         Discover
+        </a>
+        <div class="r1i4bekq">
+         <a class="n1h2c4na" href="/premium" rel="nofollow">
+          <div class="rbaee2m i192eexq">
+           Pricing
+           <span class="r69i06r">
+            <i class="icon-arrow-right r1nek67q i1kwkbx9" size="25" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:25px">
+            </i>
+           </span>
+          </div>
+         </a>
+        </div>
+        <a class="r1exx46u r1q5g3mg rbaee2m i192eexq" href="/pages">
+         Blog
+         <span class="r69i06r">
+          <i class="icon-arrow-right r1nek67q i1kwkbx9" size="25" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:25px">
+          </i>
+         </span>
+        </a>
+        <a class="rapcp7k r1q5g3mg rbaee2m i192eexq" href="/channels">
+         Channels
+         <span class="r69i06r">
+          <i class="icon-arrow-right r1nek67q i1kwkbx9" size="25" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:25px">
+          </i>
+         </span>
+        </a>
+        <a class="rapcp7k r1q5g3mg rbaee2m i192eexq" href="//support.chordify.net/hc/en" rel="nofollow">
+         Help
+         <!-- -->
+         <span class="r69i06r">
+          <i class="icon-arrow-right r1nek67q i1kwkbx9" size="25" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:25px">
+          </i>
+         </span>
+        </a>
+        <a class="rbaee2m i192eexq" href="/artists">
+         Artists
+         <span class="r69i06r">
+          <i class="icon-arrow-right r1nek67q i1kwkbx9" size="25" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:25px">
+          </i>
+         </span>
+        </a>
+       </div>
+       <div class="mu7vubi m19f388l">
+        <a class="rbaee2m i192eexq" rel="nofollow">
+         Chordify for iOS
+        </a>
+        <a class="rbaee2m i192eexq" rel="nofollow">
+         Chordify for Android
+        </a>
+        <a class="rbaee2m i192eexq" href="https://apps.apple.com/app/apple-store/id1481443731?pt=103410801&amp;ct=chordify-website-menu&amp;mt=8" target="_blank">
+         Gituru -
+         <!-- -->
+         Your Guitar Teacher
+         <!-- -->
+         <span class="r1vdznin">
+          new!
+         </span>
+        </a>
+        <a class="rbaee2m i192eexq" href="https://apps.apple.com/app/apple-store/id1344785590?pt=103410801&amp;ct=chordify-website-menu&amp;mt=8" target="_blank">
+         Karang -
+         <!-- -->
+         Out of tune?
+         <!-- -->
+        </a>
+       </div>
+       <div class="m19f388l">
+        <a class="rbaee2m i192eexq" href="/pages/terms-and-conditions">
+         Terms and Conditions
+         <span class="r69i06r">
+          <i class="icon-arrow-right r1nek67q i1kwkbx9" size="25" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:25px">
+          </i>
+         </span>
+        </a>
+        <a class="rbaee2m i192eexq" href="/pages/about">
+         About Chordify
+         <span class="r69i06r">
+          <i class="icon-arrow-right r1nek67q i1kwkbx9" size="25" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:25px">
+          </i>
+         </span>
+        </a>
+       </div>
+       <div class="m1x7wzod m1ipabt3 m19f388l">
+        <a class="rke7ww3 rbaee2m i192eexq" href="https://play.google.com/store/apps/details?id=net.chordify.chordify" rel="nofollow">
+         <i class="icon-download d1incwxn i1kwkbx9" size="26" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:26px">
+         </i>
+         Get the Android app
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="f1swfyax">
+      <nav class="ignore-react-onclickoutside b1ecx0uo ndkipri">
+       <div class="d174yaz8">
+        <div class="l1wqsdt7">
+         <i class="icon-globe i1kwkbx9" size="26" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:26px">
+         </i>
+         <span class="lxmbg0x">
+          EN
+         </span>
+        </div>
+       </div>
+       <a class="l1qus2ig i192eexq" href="/user/signin">
+        Log in
+       </a>
+       <button aria-label="Open navigation menu" class="h1xya519 b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:5px;--b136ilgh-4:auto">
+        <i class="icon-hamburger i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+        </i>
+       </button>
+      </nav>
+     </div>
+     <div class="d1xpq3pb">
+      <div class="p1lqy35s pe0mx0d p3hzgj7" style="--p3hzgj7-0:0px;--p3hzgj7-1:absolute;--p3hzgj7-2:45px;--pe0mx0d-1:0;--pe0mx0d-2:none;--pe0mx0d-3:hidden">
+       <div class="s18a8uyp m19f388l">
+        <a class="c13ptd3p rbaee2m i192eexq" href="/de/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" style="--c13ptd3p-0:normal">
+         Deutsch
+        </a>
+        <a class="c13ptd3p rbaee2m i192eexq" href="/en/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" selected="" style="--c13ptd3p-0:bold">
+         English
+         <span class="cd8s5dk">
+          <i class="icon-check i1kwkbx9" size="20" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:20px">
+          </i>
+         </span>
+        </a>
+        <a class="c13ptd3p rbaee2m i192eexq" href="/es/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" style="--c13ptd3p-0:normal">
+         Español
+        </a>
+        <a class="c13ptd3p rbaee2m i192eexq" href="/fr/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" style="--c13ptd3p-0:normal">
+         Français
+        </a>
+        <a class="c13ptd3p rbaee2m i192eexq" href="/nl/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" style="--c13ptd3p-0:normal">
+         Nederlands
+        </a>
+        <a class="c13ptd3p rbaee2m i192eexq" href="/it/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" style="--c13ptd3p-0:normal">
+         Italiano
+        </a>
+        <a class="c13ptd3p rbaee2m i192eexq" href="/pt-BR/chords/avantasia-songs/let-the-storm-descend-upon-you-chords" style="--c13ptd3p-0:normal">
+         Português do Brasil
+        </a>
+       </div>
+      </div>
+     </div>
+    </header>
+    <div class="t1fn2aoi">
+    </div>
+   </div>
+   <main class="mi6tpq7" id="content">
+    <div class="d1x5r91u">
+     <div id="mm">
+     </div>
+     <div>
+      <div class="a1p2y5ib" height="250" style="--a1p2y5ib-0:295px">
+       <fieldset class="f1gbqqnm" style="--f1gbqqnm-0:1px solid #AAAAAA;--f1gbqqnm-1:4px;--f1gbqqnm-4:8px">
+        <legend class="aefnr2r" style="--aefnr2r-0:#AAAAAA">
+         Advertisement
+        </legend>
+        <div>
+         <!-- 71161633/chords_header/chords_header -->
+        </div>
+        <div data-fuse="22484087503">
+        </div>
+       </fieldset>
+      </div>
+     </div>
+    </div>
+    <div class="m1jk8w7t">
+     <div>
+      <div class="a1p2y5ib" height="125" style="--a1p2y5ib-0:170px">
+       <fieldset class="f1gbqqnm" style="--f1gbqqnm-0:1px solid #AAAAAA;--f1gbqqnm-1:4px;--f1gbqqnm-4:8px">
+        <legend class="aefnr2r" style="--aefnr2r-0:#AAAAAA">
+         Advertisement
+        </legend>
+        <div>
+         <!-- 71161633/chords_incontent_1/chords_mob_banner_1 -->
+        </div>
+        <div data-fuse="22484087509">
+        </div>
+        <a href="/premium?utm_source=website&amp;utm_medium=mobileheader&amp;utm_campaign=Premium%20Fallback">
+         <img alt="Advertisement" class="f3k4mfe iwzmvkf" src="/img/premium/get-chordify-unlimited-small.jpg" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0"/>
+        </a>
+       </fieldset>
+      </div>
+     </div>
+    </div>
+    <div class="fzfbxfo">
+     <div class="view-diagrams simple-chords s1ik8qq" data-deleted="false" data-externalid="3ZJgUvhhKpE" data-pseudoid="youtube:3ZJgUvhhKpE" data-stream="https://www.youtube.com/watch?v=3ZJgUvhhKpE" data-type="youtube" data-yt-ctrl="false" id="song">
+      <div class="s1f0xk7y">
+      </div>
+      <div class="ssho969" id="song-page-sticky-header" style="--ssho969-0:relative;--ssho969-1:auto;--ssho969-2:inherit">
+       <div class="sxtv8nu">
+        <header class="h1xrj2lu">
+         <span class="axdhzp1">
+          <span class="t3ss92f" tabindex="0">
+           <button class="b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+            <i class="icon-threedots i1kwkbx9" size="27" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:27px">
+            </i>
+           </button>
+          </span>
+          <span class="ss548rp">
+           <button class="b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+            <span class="sjszs15">
+             Save this song to one of your setlists
+            </span>
+            <span class="tvmjo2p">
+             <i class="icon-add-to-setlist i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+             </i>
+            </span>
+           </button>
+          </span>
+         </span>
+         <a class="a1n8a0ty" href="/chords/let-the-storm-descend-upon-you-avantasia-topic-2" itemscope="" itemtype="http://schema.org/MusicRecording">
+          <meta content="https://i.ytimg.com/vi/3ZJgUvhhKpE/maxresdefault.jpg" itemprop="image">
+           <meta content="https://i.ytimg.com/vi/3ZJgUvhhKpE/maxresdefault.jpg" itemprop="thumbnailUrl"/>
+           <meta content="/chords/let-the-storm-descend-upon-you-avantasia-topic-2" itemprop="url"/>
+           <span itemprop="byArtist" itemscope="" itemtype="http://schema.org/MusicGroup">
+            <meta content="Avantasia" itemprop="name"/>
+            <meta content="/chords/artist/avantasia" itemprop="url"/>
+           </span>
+           <h1 class="t1kohhe h3w46bu">
+            <span class="e1lai98">
+             Avantasia - Let the Storm Descend Upon You
+            </span>
+           </h1>
+          </meta>
+         </a>
+         <div class="s1cyewph">
+          <div class="s6o7mq2">
+           <button class="s1o8iq0o b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+            <span class="t3ss92f" tabindex="0">
+             <div style="height:20px;width:20px">
+              <svg height="20" viewbox="0 0 64 64" width="20">
+               <g>
+                <rect fill="#AAAAAA" height="64" width="64">
+                </rect>
+               </g>
+               <g>
+                <path d="M17,22v20h30V22H17z M41.1,25L32,32.1L22.9,25H41.1z M20,39V26.6l12,9.3l12-9.3V39H20z" fill="white">
+                </path>
+               </g>
+              </svg>
+             </div>
+            </span>
+           </button>
+           <button class="s1o8iq0o b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+            <div style="height:20px;width:20px">
+             <svg height="20" viewbox="0 0 64 64" width="20">
+              <g>
+               <rect fill="#3b5998" height="64" width="64">
+               </rect>
+              </g>
+              <g>
+               <path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z" fill="white">
+               </path>
+              </g>
+             </svg>
+            </div>
+           </button>
+           <button class="s1o8iq0o b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+            <div style="height:20px;width:20px">
+             <svg height="20" viewbox="0 0 64 64" width="20">
+              <g>
+               <rect fill="#00aced" height="64" width="64">
+               </rect>
+              </g>
+              <g>
+               <path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z" fill="white">
+               </path>
+              </g>
+             </svg>
+            </div>
+           </button>
+           <button class="s1o8iq0o b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+            <div style="height:20px;width:20px">
+             <svg height="20" viewbox="0 0 64 64" width="20">
+              <g>
+               <rect fill="#2cb742" height="64" width="64">
+               </rect>
+              </g>
+              <g>
+               <path d="m42.32286,33.93287c-0.5178,-0.2589 -3.04726,-1.49644 -3.52105,-1.66732c-0.4712,-0.17346 -0.81554,-0.2589 -1.15987,0.2589c-0.34175,0.51004 -1.33075,1.66474 -1.63108,2.00648c-0.30032,0.33658 -0.60064,0.36247 -1.11327,0.12945c-0.5178,-0.2589 -2.17994,-0.80259 -4.14759,-2.56312c-1.53269,-1.37217 -2.56312,-3.05503 -2.86603,-3.57283c-0.30033,-0.5178 -0.03366,-0.80259 0.22524,-1.06149c0.23301,-0.23301 0.5178,-0.59547 0.7767,-0.90616c0.25372,-0.31068 0.33657,-0.5178 0.51262,-0.85437c0.17088,-0.36246 0.08544,-0.64725 -0.04402,-0.90615c-0.12945,-0.2589 -1.15987,-2.79613 -1.58964,-3.80584c-0.41424,-1.00971 -0.84142,-0.88027 -1.15987,-0.88027c-0.29773,-0.02588 -0.64208,-0.02588 -0.98382,-0.02588c-0.34693,0 -0.90616,0.12945 -1.37736,0.62136c-0.4712,0.5178 -1.80194,1.76053 -1.80194,4.27186c0,2.51134 1.84596,4.945 2.10227,5.30747c0.2589,0.33657 3.63497,5.51458 8.80262,7.74113c1.23237,0.5178 2.1903,0.82848 2.94111,1.08738c1.23237,0.38836 2.35599,0.33657 3.24402,0.20712c0.99159,-0.15534 3.04985,-1.24272 3.47963,-2.45956c0.44013,-1.21683 0.44013,-2.22654 0.31068,-2.45955c-0.12945,-0.23301 -0.46601,-0.36247 -0.98382,-0.59548m-9.40068,12.84407l-0.02589,0c-3.05503,0 -6.08417,-0.82849 -8.72495,-2.38189l-0.62136,-0.37023l-6.47252,1.68286l1.73463,-6.29129l-0.41424,-0.64725c-1.70875,-2.71846 -2.6149,-5.85116 -2.6149,-9.07706c0,-9.39809 7.68934,-17.06155 17.15993,-17.06155c4.58253,0 8.88029,1.78642 12.11655,5.02268c3.23625,3.21036 5.02267,7.50812 5.02267,12.06476c-0.0078,9.3981 -7.69712,17.06155 -17.14699,17.06155m14.58906,-31.58846c-3.93529,-3.80584 -9.1133,-5.95471 -14.62789,-5.95471c-11.36055,0 -20.60848,9.2065 -20.61625,20.52564c0,3.61684 0.94757,7.14565 2.75211,10.26282l-2.92557,10.63564l10.93337,-2.85309c3.0136,1.63108 6.4052,2.4958 9.85634,2.49839l0.01037,0c11.36574,0 20.61884,-9.2091 20.62403,-20.53082c0,-5.48093 -2.14111,-10.64081 -6.03239,-14.51915" fill="white">
+               </path>
+              </g>
+             </svg>
+            </div>
+           </button>
+          </div>
+         </div>
+        </header>
+        <div class="d1x5r91u">
+         <div class="a19gzy4o" style="--a19gzy4o-0:20px;--a19gzy4o-1:15px">
+          <span class="a18p6wfv">
+           by
+           <!-- -->
+           :
+          </span>
+          <span class="m1s4ntsa">
+           <a class="a18jflhn lmgha8v" href="/chords/avantasia-songs" style="--lmgha8v-0:#009DC6">
+            Avantasia
+           </a>
+          </span>
+         </div>
+        </div>
+        <div class="m1jk8w7t">
+         <div class="a19gzy4o" style="--a19gzy4o-0:15px;--a19gzy4o-1:20px">
+          <span class="a18p6wfv">
+           by
+           <!-- -->
+           :
+          </span>
+          <span class="m1s4ntsa">
+           <a class="a18jflhn lmgha8v" href="/chords/avantasia-songs" style="--lmgha8v-0:#009DC6">
+            Avantasia
+           </a>
+          </span>
+         </div>
+        </div>
+        <div class="m1jk8w7t">
+         <div class="m1knpg8l">
+          <div class="c1uacufm">
+           <button class="d115wvcw b69i0zi b136ilgh" color="#009DC6" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:10px 15px;--b136ilgh-4:auto;--d115wvcw-0:#009DC6">
+            <span class="lnzwqg" style="--lnzwqg-0:transparent">
+             View
+            </span>
+           </button>
+           <div class="ignore-react-onclickoutside dfqp71c" style="--dfqp71c-3:0px">
+            <div class="p1ipf04c" style="--p1ipf04c-0:20px">
+            </div>
+           </div>
+          </div>
+          <div class="c1uacufm">
+           <button class="d115wvcw b69i0zi b136ilgh" color="#34CC99" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:10px 15px;--b136ilgh-4:auto;--d115wvcw-0:#34CC99">
+            <span class="lnzwqg" style="--lnzwqg-0:transparent">
+             Instrument
+            </span>
+           </button>
+           <div class="ignore-react-onclickoutside dfqp71c" style="--dfqp71c-3:0px">
+            <div class="p1ipf04c" style="--p1ipf04c-0:20px">
+            </div>
+           </div>
+          </div>
+          <a class="n1h2c4na" href="/premium" rel="nofollow">
+           <button class="bf5werh b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:5px;--b136ilgh-4:auto">
+            Discover Premium
+           </button>
+          </a>
+         </div>
+        </div>
+        <div class="d1x5r91u">
+         <div class="t1uhrw3o">
+          <div class="t1v0lge0">
+           <div class="t1wxmxfn">
+            <button class="tuxs61x b1g4bi0i b69i0zi b136ilgh" color="#009DC6" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:5px;--b136ilgh-4:auto;--tuxs61x-0:#EEEEEE;--tuxs61x-1:none;--tuxs61x-2:#AAAAAA;--tuxs61x-7:#009DC6">
+             <span class="i1eehad0">
+              <i class="icon-tab-chord-empty i1kwkbx9" size="20" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:20px">
+              </i>
+             </span>
+             <span class="i1kkmewr">
+              <i class="icon-tab-chord i1kwkbx9" size="20" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:20px">
+              </i>
+             </span>
+             <span class="tcz4qbs">
+              diagrams
+             </span>
+            </button>
+            <button class="tuxs61x b1g4bi0i b69i0zi b136ilgh" color="#34CC99" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:5px;--b136ilgh-4:auto;--tuxs61x-0:#EEEEEE;--tuxs61x-1:none;--tuxs61x-2:#AAAAAA;--tuxs61x-7:#34CC99">
+             <span class="i1eehad0">
+              <i class="icon-tab-chords-empty i1kwkbx9" size="20" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:20px">
+              </i>
+             </span>
+             <span class="i1kkmewr">
+              <i class="icon-tab-chords i1kwkbx9" size="20" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:20px">
+              </i>
+             </span>
+             <span class="tcz4qbs">
+              Overview
+             </span>
+            </button>
+            <button class="tuxs61x b1g4bi0i b69i0zi b136ilgh" color="#F07E32" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:5px;--b136ilgh-4:auto;--tuxs61x-0:#EEEEEE;--tuxs61x-1:none;--tuxs61x-2:#AAAAAA;--tuxs61x-7:#F07E32">
+             <span class="i1eehad0">
+              <i class="icon-tab-chord-empty i1kwkbx9" size="20" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:20px">
+              </i>
+             </span>
+             <span class="i1kkmewr">
+              <i class="icon-tab-edit i1kwkbx9" size="20" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:20px">
+              </i>
+             </span>
+             <span class="tcz4qbs">
+              improve
+             </span>
+            </button>
+            <div class="s1svfmf8">
+             <div class="d1xpq3pb">
+              <span class="sjszs15">
+               These chords can’t be simplified
+              </span>
+              <span class="tvmjo2p">
+               <span class="sdhe4vx" style="--sdhe4vx-2:1">
+                Simplify chords
+               </span>
+               <button class="t1ea0nki" style="--t1ea0nki-0:#333333">
+                <div class="t19f1t42" style="--t19f1t42-1:0">
+                </div>
+               </button>
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="tcdxljn">
+         <div class="mds83sj m1jk8w7t">
+          <div class="thm0jrg" role="tooltip" style="--thm0jrg-5:block;--thm0jrg-7:0 16px 0 0;--thm0jrg-8:30vw;--thm0jrg-9:visible;--thm0jrg-13:10vw;--thm0jrg-14:#C4C4C4 #C4C4C4 transparent transparent;--thm0jrg-15:auto;--thm0jrg-17:auto;--thm0jrg-18:-8px;--thm0jrg-19:calc(50% - 8px)">
+           <div class="t12sqweq">
+            Tap the video and start jamming!
+           </div>
+          </div>
+         </div>
+         <div class="mxn2osx" style="--mxn2osx-0:none">
+          <div class="f1imza99">
+           <div class="c136r2ru">
+            <nav class="t17pt8ia">
+             <div class="l1eg9sm3">
+              <ul class="t85dh8m">
+               <li class="tmicit0">
+                <button class="b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:5px;--b136ilgh-4:auto">
+                 <span class="sjszs15">
+                  Rewind to play the song again.
+                 </span>
+                 <span class="tvmjo2p">
+                  <div class="m1qz0kj0">
+                   <div class="mkxz7wb" style="--mkxz7wb-1:1">
+                    <div class="n132tuxd">
+                     <i class="icon-rewind i1kwkbx9" size="35" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:35px">
+                     </i>
+                    </div>
+                   </div>
+                  </div>
+                 </span>
+                </button>
+               </li>
+               <li class="tmicit0">
+                <button aria-label="play" class="b1g4bi0i b69i0zi b136ilgh" id="play-button" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+                 <span class="sjszs15">
+                  Please wait while the player is loading.
+                 </span>
+                 <span class="tvmjo2p">
+                  <div class="pjy33cb">
+                   <div class="mkxz7wb" style="--mkxz7wb-1:1">
+                    <i class="icon-caret-right p1dm33nd i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+                    </i>
+                   </div>
+                  </div>
+                 </span>
+                </button>
+               </li>
+              </ul>
+             </div>
+            </nav>
+           </div>
+           <div class="pa7p0d2">
+            <div class="w688stb">
+             <nav class="t14e94rz">
+              <ul class="t1fge9k1 t85dh8m" id="edit-toolbar-legacy">
+               <li class="t8gbwgv t1a1zul3" style="--t8gbwgv-1:0">
+                <button class="b1ylnzry b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+                 <span class="sjszs15">
+                  <div>
+                   <div>
+                    Change the volume of this song
+                   </div>
+                   <a class="a13gx10h">
+                    Video demo
+                   </a>
+                  </div>
+                 </span>
+                 <span class="tvmjo2p">
+                  <a class="t175rzgb te22vuv" style="--t175rzgb-0:#FFFFFF;--t175rzgb-2:0.5;--t175rzgb-5:#666666;--t175rzgb-6:inherit">
+                   <i class="icon-audio-on t1otpo7s i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+                   </i>
+                   <br/>
+                   song
+                  </a>
+                 </span>
+                </button>
+               </li>
+               <li class="t8gbwgv t1a1zul3" style="--t8gbwgv-1:1">
+                <button class="b1ylnzry b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+                 <span class="sjszs15">
+                  <div>
+                   <div>
+                    Change chord volume
+                   </div>
+                   <a class="a13gx10h">
+                    Video demo
+                   </a>
+                  </div>
+                 </span>
+                 <span class="tvmjo2p">
+                  <a class="t175rzgb te22vuv" style="--t175rzgb-0:#FFFFFF;--t175rzgb-2:0.5;--t175rzgb-5:#666666;--t175rzgb-6:inherit">
+                   <i class="icon-audio-off t1otpo7s i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+                   </i>
+                   <br/>
+                   Chords
+                  </a>
+                 </span>
+                </button>
+               </li>
+               <li class="t8gbwgv t1a1zul3" style="--t8gbwgv-1:3">
+                <button class="b1ylnzry b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+                 <span class="sjszs15">
+                  <div>
+                   <div>
+                    Loop chord progression
+                   </div>
+                   <a class="a13gx10h">
+                    Video demo
+                   </a>
+                  </div>
+                 </span>
+                 <span class="tvmjo2p">
+                  <a class="t175rzgb te22vuv" style="--t175rzgb-0:#FFFFFF;--t175rzgb-2:0.5;--t175rzgb-5:#666666;--t175rzgb-6:inherit">
+                   <i class="icon-loop t1otpo7s i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+                   </i>
+                   <br/>
+                   loop
+                  </a>
+                 </span>
+                </button>
+               </li>
+               <li class="t1lx7i1k t8gbwgv t1a1zul3" style="--t8gbwgv-1:2">
+                <button class="b1ylnzry b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+                 <a class="t175rzgb te22vuv" style="--t175rzgb-0:#FFFFFF;--t175rzgb-2:0.5;--t175rzgb-5:#666666;--t175rzgb-6:inherit">
+                  <span class="t1ly2624">
+                   100%
+                  </span>
+                  <br/>
+                  tempo
+                 </a>
+                </button>
+               </li>
+               <li class="tpanqjy t8gbwgv t1a1zul3" style="--t8gbwgv-1:0">
+                <span class="sjszs15">
+                 <div>
+                  <div>
+                   Change the speed of this song
+                  </div>
+                  <a class="a13gx10h">
+                   Video demo
+                  </a>
+                 </div>
+                </span>
+                <span class="tvmjo2p">
+                 <a class="t175rzgb te22vuv" style="--t175rzgb-0:#FFFFFF;--t175rzgb-2:0.5;--t175rzgb-5:#666666;--t175rzgb-6:inherit">
+                  <button class="b1ylnzry b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+                   <i class="icon-caret-left i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+                   </i>
+                  </button>
+                  <span class="tboi1b">
+                   100%
+                  </span>
+                  <button class="b1ylnzry b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+                   <i class="icon-caret-right i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+                   </i>
+                  </button>
+                  <br/>
+                  tempo
+                 </a>
+                </span>
+               </li>
+               <li class="tpanqjy t8gbwgv t1a1zul3" style="--t8gbwgv-1:0">
+                <button class="b1ylnzry b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+                 <span class="sjszs15">
+                  <div>
+                   <div>
+                    Show capo hints for guitar and ukulele
+                   </div>
+                   <a class="a13gx10h">
+                    Video demo
+                   </a>
+                  </div>
+                 </span>
+                 <span class="tvmjo2p">
+                  <a class="t175rzgb te22vuv" style="--t175rzgb-0:#FFFFFF;--t175rzgb-2:0.5;--t175rzgb-5:#666666;--t175rzgb-6:inherit">
+                   <i class="icon-capo t1otpo7s i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+                   </i>
+                   <br/>
+                   capo
+                  </a>
+                 </span>
+                </button>
+               </li>
+               <li class="tpanqjy t8gbwgv t1a1zul3" style="--t8gbwgv-1:0">
+                <span class="sjszs15">
+                 <div>
+                  <div>
+                   Change the chords by transposing the key
+                  </div>
+                  <a class="a13gx10h">
+                   Video demo
+                  </a>
+                 </div>
+                </span>
+                <span class="tvmjo2p">
+                 <a class="t175rzgb te22vuv" style="--t175rzgb-0:#FFFFFF;--t175rzgb-2:0.5;--t175rzgb-5:#666666;--t175rzgb-6:inherit">
+                  <button class="b1ylnzry b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+                   <i class="icon-caret-down i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+                   </i>
+                  </button>
+                  <span class="tboi1b">
+                   -
+                  </span>
+                  <button class="b1ylnzry b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+                   <i class="icon-caret-up i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+                   </i>
+                  </button>
+                  <br/>
+                  transpose
+                 </a>
+                </span>
+               </li>
+               <li class="tpanqjy t8gbwgv t1a1zul3" style="--t8gbwgv-1:0">
+                <span class="t3ss92f" tabindex="0">
+                 <button class="b1ylnzry b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+                  <span class="sjszs15">
+                   <div>
+                    <div>
+                     Download the chords as MIDI file for audio and score editing.
+                    </div>
+                    <a class="a13gx10h">
+                     Video demo
+                    </a>
+                   </div>
+                  </span>
+                  <span class="tvmjo2p">
+                   <a class="t175rzgb te22vuv" style="--t175rzgb-0:#FFFFFF;--t175rzgb-2:0.5;--t175rzgb-5:#666666;--t175rzgb-6:inherit">
+                    <i class="icon-download t1otpo7s i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+                    </i>
+                    <br/>
+                    midi
+                   </a>
+                  </span>
+                 </button>
+                </span>
+               </li>
+               <li class="tpanqjy t8gbwgv t1a1zul3" style="--t8gbwgv-1:0">
+                <span class="t3ss92f" tabindex="0">
+                 <button class="b1ylnzry b1g4bi0i b69i0zi b136ilgh" style="--b136ilgh-1:4px;--b136ilgh-2:14px;--b136ilgh-3:0;--b136ilgh-4:auto">
+                  <span class="sjszs15">
+                   <div>
+                    <div>
+                     Print this page or download a PDF chord sheet
+                    </div>
+                    <a class="a13gx10h">
+                     Video demo
+                    </a>
+                   </div>
+                  </span>
+                  <span class="tvmjo2p">
+                   <a class="t175rzgb te22vuv" style="--t175rzgb-0:#FFFFFF;--t175rzgb-2:0.5;--t175rzgb-5:#666666;--t175rzgb-6:inherit">
+                    <i class="icon-print t1otpo7s i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+                    </i>
+                    <br/>
+                    print
+                   </a>
+                  </span>
+                 </button>
+                </span>
+               </li>
+              </ul>
+             </nav>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="notranslate c1p0za9s" id="chordsArea" style="--c1p0za9s-0:20px">
+       <div class="chords loading cvhfkdk" id="chords">
+        Loading the chords for 'Avantasia - Let the Storm Descend Upon You'.
+        <div class="loader l1y3uj9x">
+        </div>
+       </div>
+       <div class="n1ft9k01" style="--n1ft9k01-0:none">
+        <h2 class="i1t3lt4 hz56qyn">
+         Choose your instrument
+        </h2>
+        <div class="i11v7hvv">
+         <div class="i1q78294">
+          <header class="ijsk9nt">
+           guitar
+          </header>
+          <div class="d4u55fp">
+           <picture class="dvuaq9u p18r570z" style="--p18r570z-0:80%;--p18r570z-1:100%">
+            <img alt="C_maj" class="i1by9jdf iwzmvkf" src="/img/diagrams/guitar/C_maj.png" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0;--i1by9jdf-0:#FFFFFF"/>
+           </picture>
+           <span class="label-Ab_maj">
+           </span>
+          </div>
+         </div>
+         <div class="i1q78294">
+          <header class="ijsk9nt">
+           ukulele
+          </header>
+          <div class="d4u55fp">
+           <picture class="dvuaq9u p18r570z" style="--p18r570z-0:80%;--p18r570z-1:100%">
+            <img alt="C_maj" class="i1by9jdf iwzmvkf" src="/img/diagrams/ukulele/C_maj.png" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0;--i1by9jdf-0:#FFFFFF"/>
+           </picture>
+           <span class="label-Ab_maj">
+           </span>
+          </div>
+         </div>
+         <div class="i1q78294">
+          <header class="ijsk9nt">
+           piano
+          </header>
+          <div class="d4u55fp">
+           <picture class="dvuaq9u p18r570z" style="--p18r570z-0:46%;--p18r570z-1:100%">
+            <img alt="C_maj" class="i1by9jdf iwzmvkf" src="/img/diagrams/piano/C_maj.png" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0;--i1by9jdf-0:#FFFFFF"/>
+           </picture>
+           <span class="label-Ab_maj">
+           </span>
+          </div>
+         </div>
+         <div class="i1q78294">
+          <header class="ijsk9nt">
+           Other
+          </header>
+          <div class="cqu9i56">
+           <div class="f5ie8gm">
+            <div class="c1ntzgvx">
+             <span class="label-Ab_maj">
+             </span>
+            </div>
+           </div>
+           <div class="f5ie8gm">
+           </div>
+           <div class="f5ie8gm">
+           </div>
+           <div class="f5ie8gm">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="oy34c5s" style="--oy34c5s-0:0;--oy34c5s-1:hidden">
+        <div class="d1g4glad" id="diagrams">
+        </div>
+       </div>
+      </div>
+      <div class="sgwj3eh">
+      </div>
+      <div class="sgwj3eh">
+      </div>
+     </div>
+     <aside class="a124epj4" id="aside">
+      <div class="sz7azk2 ssho969" style="--ssho969-0:relative;--ssho969-1:auto;--ssho969-2:inherit;--sz7azk2-2:relative;--sz7azk2-3:auto;--sz7azk2-4:inherit">
+       <div class="n1ft9k01" style="--n1ft9k01-0:none">
+        <div class="v43fbk6" id="youtube">
+         <div class="loader">
+         </div>
+        </div>
+       </div>
+       <div class="v43fbk6">
+        <div class="f1sss9m4">
+         <picture class="y1ua73l9 p18r570z" height="200" style="--p18r570z-0:200px;--p18r570z-1:100%">
+          <img alt='Video thumbnail of "Avantasia - Let the Storm Descend Upon You"' class="i1by9jdf iwzmvkf" src="https://img.youtube.com/vi/3ZJgUvhhKpE/mqdefault.jpg" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0;--i1by9jdf-0:#FFFFFF"/>
+         </picture>
+         <div class="fmf0v00">
+          Avantasia - Let the Storm Descend Upon You
+         </div>
+         <picture class="puwa0if p18r570z" height="48" style="--p18r570z-0:48px;--p18r570z-1:100%">
+          <img alt="Play button" class="i1by9jdf iwzmvkf" src="/img/youtube-play-btn.png" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0;--i1by9jdf-0:#FFFFFF"/>
+         </picture>
+         <picture class="yuqasdk p18r570z" height="20" style="--p18r570z-0:20px;--p18r570z-1:89.48545861297539px">
+          <img alt="YouTube" class="i1by9jdf iwzmvkf" src="/img/brands/yt_logo_mono_dark_small.png" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0;--i1by9jdf-0:#FFFFFF"/>
+         </picture>
+        </div>
+       </div>
+       <div class="s7ho0ip">
+        <h2 class="t1qgdm6v h3w46bu">
+         <span class="e1lai98">
+          Chordify Premium Demo
+          <!-- -->
+          <a class="pwfhz3n lmgha8v" color="#34CC99" href="/channels/premium?utm_source=Premium%20Demo&amp;utm_medium=link&amp;utm_campaign=Premium%20Demo" style="--lmgha8v-0:#34CC99">
+           Try now
+          </a>
+         </span>
+        </h2>
+        <div class="s1w0ne0w" style="--s1w0ne0w-0:#F8F8F8">
+         <a class="lcourxo l1kpohop" href="/chords/future-wait-for-u-official-music-video-ft-drake-tems-futurevevo">
+          <div class="lydohjg">
+           <picture class="f8d0pxd sbgigcn p18r570z" height="45" style="--p18r570z-0:45px;--p18r570z-1:45px">
+            <img alt="Future - WAIT FOR U (Official Music Video) ft. Drake, Tems chords" class="i1by9jdf iwzmvkf" src="/img/placeholder_thumb.png" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0;--i1by9jdf-0:#FFFFFF"/>
+           </picture>
+           <span class="tge85oa e1lai98">
+            Future - WAIT FOR U (Official Music Video) ft. Drake, Tems
+           </span>
+           <span class="s5fxhr2 e1lai98">
+            3516
+            <!-- -->
+            <!-- -->
+            jam sessions
+            <!-- -->
+            ·
+            <!-- -->
+            chords
+            <!-- -->
+            :
+            <span class="ln0m3at">
+             <span class="srjyzde">
+              <span class="label-Gb_maj7">
+              </span>
+             </span>
+             <span class="srjyzde">
+              <span class="label-Db_maj7">
+              </span>
+             </span>
+             <span class="srjyzde">
+              <span class="label-Bb_min7">
+              </span>
+             </span>
+             <span class="srjyzde">
+              <span class="label-F_min7">
+              </span>
+             </span>
+            </span>
+           </span>
+          </div>
+         </a>
+        </div>
+        <div class="s1w0ne0w" style="--s1w0ne0w-0:#FFFFFF">
+         <a class="lcourxo l1kpohop" href="/chords/kendrick-lamar-die-hard-lyrics-ft-blxst-amanda-reifer-little-lyrics">
+          <div class="lydohjg">
+           <picture class="f8d0pxd sbgigcn p18r570z" height="45" style="--p18r570z-0:45px;--p18r570z-1:45px">
+            <img alt="Kendrick Lamar - Die Hard (Lyrics) Ft. Blxst &amp; Amanda Reifer chords" class="i1by9jdf iwzmvkf" src="/img/placeholder_thumb.png" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0;--i1by9jdf-0:#FFFFFF"/>
+           </picture>
+           <span class="tge85oa e1lai98">
+            Kendrick Lamar - Die Hard (Lyrics) Ft. Blxst &amp; Amanda Reifer
+           </span>
+           <span class="s5fxhr2 e1lai98">
+            2571
+            <!-- -->
+            <!-- -->
+            jam sessions
+            <!-- -->
+            ·
+            <!-- -->
+            chords
+            <!-- -->
+            :
+            <span class="ln0m3at">
+             <span class="srjyzde">
+              <span class="label-Fs_min7">
+              </span>
+             </span>
+             <span class="srjyzde">
+              <span class="label-Gs_min7">
+              </span>
+             </span>
+             <span class="srjyzde">
+              <span class="label-A_maj7">
+              </span>
+             </span>
+             <span class="srjyzde">
+              <span class="label-B_maj">
+              </span>
+             </span>
+            </span>
+           </span>
+          </div>
+         </a>
+        </div>
+        <div class="s1w0ne0w" style="--s1w0ne0w-0:#F8F8F8">
+         <a class="lcourxo l1kpohop" href="/chords/morgan-wallen-you-proof-lyrics-country-music-new">
+          <div class="lydohjg">
+           <picture class="f8d0pxd sbgigcn p18r570z" height="45" style="--p18r570z-0:45px;--p18r570z-1:45px">
+            <img alt="Morgan Wallen - You Proof (Lyrics) chords" class="i1by9jdf iwzmvkf" src="/img/placeholder_thumb.png" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0;--i1by9jdf-0:#FFFFFF"/>
+           </picture>
+           <span class="tge85oa e1lai98">
+            Morgan Wallen - You Proof (Lyrics)
+           </span>
+           <span class="s5fxhr2 e1lai98">
+            3183
+            <!-- -->
+            <!-- -->
+            jam sessions
+            <!-- -->
+            ·
+            <!-- -->
+            chords
+            <!-- -->
+            :
+            <span class="ln0m3at">
+             <span class="srjyzde">
+              <span class="label-D_maj">
+              </span>
+             </span>
+             <span class="srjyzde">
+              <span class="label-Fs_min7">
+              </span>
+             </span>
+             <span class="srjyzde">
+              <span class="label-A_maj">
+              </span>
+             </span>
+            </span>
+           </span>
+          </div>
+         </a>
+        </div>
+        <div class="s1w0ne0w" style="--s1w0ne0w-0:#FFFFFF">
+         <a class="lcourxo l1kpohop" href="/chords/kendrick-lamar-kodak-black-songs/silent-hill-chords">
+          <div class="lydohjg">
+           <picture class="f8d0pxd sbgigcn p18r570z" height="45" style="--p18r570z-0:45px;--p18r570z-1:45px">
+            <img alt="Kendrick Lamar ft. Kodak Black - Silent Hill (Music Video) chords" class="i1by9jdf iwzmvkf" src="/img/placeholder_thumb.png" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0;--i1by9jdf-0:#FFFFFF"/>
+           </picture>
+           <span class="tge85oa e1lai98">
+            Kendrick Lamar ft. Kodak Black - Silent Hill (Music Video)
+           </span>
+           <span class="s5fxhr2 e1lai98">
+            3765
+            <!-- -->
+            <!-- -->
+            jam sessions
+            <!-- -->
+            ·
+            <!-- -->
+            chords
+            <!-- -->
+            :
+            <span class="ln0m3at">
+             <span class="srjyzde">
+              <span class="label-Fs_min7">
+              </span>
+             </span>
+             <span class="srjyzde">
+              <span class="label-Cs_min7">
+              </span>
+             </span>
+             <span class="srjyzde">
+              <span class="label-Fs_min">
+              </span>
+             </span>
+            </span>
+           </span>
+          </div>
+         </a>
+        </div>
+        <div class="s1w0ne0w" style="--s1w0ne0w-0:#F8F8F8">
+         <a class="lcourxo l1kpohop" href="/chords/kendrick-lamar-songs/united-in-grief-chords">
+          <div class="lydohjg">
+           <picture class="f8d0pxd sbgigcn p18r570z" height="45" style="--p18r570z-0:45px;--p18r570z-1:45px">
+            <img alt="Kendrick Lamar - United In Grief (Lyrics) chords" class="i1by9jdf iwzmvkf" src="/img/placeholder_thumb.png" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0;--i1by9jdf-0:#FFFFFF"/>
+           </picture>
+           <span class="tge85oa e1lai98">
+            Kendrick Lamar - United In Grief (Lyrics)
+           </span>
+           <span class="s5fxhr2 e1lai98">
+            3696
+            <!-- -->
+            <!-- -->
+            jam sessions
+            <!-- -->
+            ·
+            <!-- -->
+            chords
+            <!-- -->
+            :
+            <span class="ln0m3at">
+             <span class="srjyzde">
+              <span class="label-Db_maj7">
+              </span>
+             </span>
+             <span class="srjyzde">
+              <span class="label-Bb_maj7">
+              </span>
+             </span>
+             <span class="srjyzde">
+              <span class="label-C_min7">
+              </span>
+             </span>
+             <span class="srjyzde">
+              <span class="label-G_maj">
+              </span>
+             </span>
+            </span>
+           </span>
+          </div>
+         </a>
+        </div>
+        <div class="s1w0ne0w" style="--s1w0ne0w-0:#FFFFFF">
+         <a class="lcourxo l1kpohop" href="/chords/lizzo-songs/about-damn-time-chords">
+          <div class="lydohjg">
+           <picture class="f8d0pxd sbgigcn p18r570z" height="45" style="--p18r570z-0:45px;--p18r570z-1:45px">
+            <img alt="Lizzo - About Damn Time (Lyrics) chords" class="i1by9jdf iwzmvkf" src="/img/placeholder_thumb.png" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0;--i1by9jdf-0:#FFFFFF"/>
+           </picture>
+           <span class="tge85oa e1lai98">
+            Lizzo - About Damn Time (Lyrics)
+           </span>
+           <span class="s5fxhr2 e1lai98">
+            5871
+            <!-- -->
+            <!-- -->
+            jam sessions
+            <!-- -->
+            ·
+            <!-- -->
+            chords
+            <!-- -->
+            :
+            <span class="ln0m3at">
+             <span class="srjyzde">
+              <span class="label-Eb_min7">
+              </span>
+             </span>
+             <span class="srjyzde">
+              <span class="label-F_min7">
+              </span>
+             </span>
+             <span class="srjyzde">
+              <span class="label-Gb_maj7">
+              </span>
+             </span>
+             <span class="srjyzde">
+              <span class="label-Bb_min7">
+              </span>
+             </span>
+            </span>
+           </span>
+          </div>
+         </a>
+        </div>
+        <h2 class="tsecq7m h3w46bu">
+         From our blog:
+        </h2>
+        <div class="s1w0ne0w" style="--s1w0ne0w-0:#F8F8F8" title="
+When it comes to the 10 top songs that were most played on Chordify during July, you might suspect the list would be full of happy summer campfire fiddles. Think again. Last month our community showed how eclectic their taste is, from movie themes to the Filipino rap tunes of Lo Ki. Enjoy!">
+         <a class="l1kpohop" href="https://chordify.net/pages/top-songs-of-july/">
+          <picture class="f8d0pxd sbgigcn p18r570z" height="45" style="--p18r570z-0:45px;--p18r570z-1:45px">
+           <img alt="Filipino rapper Lo Ki enters the 10 top songs of July" class="i1by9jdf iwzmvkf" src="/img/placeholder_thumb.png" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0;--i1by9jdf-0:#FFFFFF"/>
+          </picture>
+          <div class="tf827cf">
+           Filipino rapper Lo Ki enters the 10 top songs of July
+          </div>
+         </a>
+        </div>
+        <div class="s1w0ne0w" style="--s1w0ne0w-0:#FFFFFF" title="
+It’s getting hot in here! Time to turn on the airco and keep it cool with the songs that will definitely get your summer vibes on. We’ve selected five tracks from our Summer Songs channel, so if you just can’t get enough after reading this blog post, you know where you can get more.">
+         <a class="l1kpohop" href="https://chordify.net/pages/summer-vibes/">
+          <picture class="f8d0pxd sbgigcn p18r570z" height="45" style="--p18r570z-0:45px;--p18r570z-1:45px">
+           <img alt="Keep it cool with these summer vibes" class="i1by9jdf iwzmvkf" src="/img/placeholder_thumb.png" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0;--i1by9jdf-0:#FFFFFF"/>
+          </picture>
+          <div class="tf827cf">
+           Keep it cool with these summer vibes
+          </div>
+         </a>
+        </div>
+       </div>
+       <div class="d1x5r91u">
+        <div>
+        </div>
+        <div>
+         <div class="a1p2y5ib" height="250" style="--a1p2y5ib-0:295px">
+          <fieldset class="f1gbqqnm" style="--f1gbqqnm-0:none;--f1gbqqnm-1:0;--f1gbqqnm-4:0">
+           <legend class="aefnr2r" style="--aefnr2r-0:#AAAAAA">
+            Advertisement
+           </legend>
+           <div>
+            <!-- 71161633/mrec_banner/mrec_banner -->
+           </div>
+           <div data-fuse="22548563077">
+           </div>
+           <a href="/premium?utm_source=website&amp;utm_medium=side&amp;utm_campaign=Premium%20Fallback">
+            <img alt="Advertisement" class="f3k4mfe iwzmvkf" src="/img/premium/get-chordify-unlimited-square.jpg" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0"/>
+           </a>
+          </fieldset>
+         </div>
+        </div>
+       </div>
+       <div class="m1jk8w7t">
+        <div>
+         <div class="a1p2y5ib" height="125" style="--a1p2y5ib-0:170px">
+          <fieldset class="f1gbqqnm" style="--f1gbqqnm-0:1px solid #AAAAAA;--f1gbqqnm-1:4px;--f1gbqqnm-4:8px">
+           <legend class="aefnr2r" style="--aefnr2r-0:#AAAAAA">
+            Advertisement
+           </legend>
+           <div>
+            <!-- 71161633/chords_incontent_2/chords_mob_banner_2 -->
+           </div>
+           <div data-fuse="22484087506">
+           </div>
+           <a href="/premium?utm_source=website&amp;utm_medium=mobileBottom&amp;utm_campaign=Premium%20Fallback">
+            <img alt="Advertisement" class="f3k4mfe iwzmvkf" src="/img/premium/get-chordify-unlimited-small.jpg" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0"/>
+           </a>
+          </fieldset>
+         </div>
+        </div>
+       </div>
+      </div>
+     </aside>
+    </div>
+    <div class="d1x5r91u">
+     <div>
+      <div class="a1p2y5ib" height="90" style="--a1p2y5ib-0:135px">
+       <fieldset class="f1gbqqnm" style="--f1gbqqnm-0:1px solid #AAAAAA;--f1gbqqnm-1:4px;--f1gbqqnm-4:8px">
+        <legend class="aefnr2r" style="--aefnr2r-0:#AAAAAA">
+         Advertisement
+        </legend>
+        <div>
+         <!-- 71161633/home_incontent_2/home_desk_lb_2 -->
+        </div>
+        <div data-fuse="22484087488">
+        </div>
+        <a href="/premium?utm_source=website&amp;utm_medium=desktopBottom&amp;utm_campaign=Premium%20Fallback">
+         <img alt="Advertisement" class="f3k4mfe iwzmvkf" src="/img/premium/get-chordify-unlimited-rectangle.jpg" style="--iwzmvkf-0:transparent;--iwzmvkf-1:0"/>
+        </a>
+       </fieldset>
+      </div>
+     </div>
+    </div>
+    <div class="ft4rr2x">
+     <footer class="w1um2dvf" data-test-id="footer">
+      <div class="cjan7v3">
+       <div class="wmfq8xk">
+        <a class="a1d7eymq" href="/">
+         <i class="icon-logo i1kwkbx9" size="48" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:48px">
+         </i>
+        </a>
+       </div>
+       <div class="d11qnvs4">
+        <h2 class="t1qauezq h3w46bu">
+         Instant chords for any song
+        </h2>
+        <h3 class="s1gzelby h1n234tp">
+         tune into chords
+        </h3>
+       </div>
+       <div class="s1b51m3l">
+        <a class="a15i320b" href="https://www.instagram.com/chordifyofficial/" rel="nofollow" target="_blank">
+         <i class="icon-instagram i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+         </i>
+        </a>
+        <a class="a15i320b" href="https://facebook.com/Chordify" rel="nofollow" target="_blank">
+         <i class="icon-facebook i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+         </i>
+        </a>
+        <a class="a15i320b" href="https://twitter.com/Chordify" rel="nofollow" target="_blank">
+         <i class="icon-twitter i1kwkbx9" style="--i1kwkbx9-0:inherit;--i1kwkbx9-1:30px">
+         </i>
+        </a>
+       </div>
+      </div>
+      <div class="cjan7v3">
+       <ul class="u17hr3ic">
+        <li>
+         <a class="a15i320b" href="//support.chordify.net/hc/en">
+          Help
+         </a>
+        </li>
+        <li>
+         <a class="a15i320b" href="/pages">
+          Blog
+         </a>
+        </li>
+        <li>
+         <a class="a15i320b" href="https://apps.apple.com/app/apple-store/id1073624757" rel="nofollow" target="_blank">
+          Chordify for iOS
+         </a>
+        </li>
+        <li>
+         <a class="a15i320b" href="https://play.google.com/store/apps/details?id=net.chordify.chordify" rel="nofollow" target="_blank">
+          Chordify for Android
+         </a>
+        </li>
+        <li>
+         <span class="po4nmgt">
+          <a class="n1h2c4na" href="/premium" rel="nofollow">
+           Chordify Premium
+          </a>
+         </span>
+        </li>
+        <li>
+         <a class="a15i320b" href="https://apps.apple.com/app/apple-store/id1481443731?pt=103410801&amp;ct=chordify-website-footer&amp;mt=8" rel="nofollow" target="_blank">
+          Gituru -
+          <!-- -->
+          Your Guitar Teacher
+         </a>
+        </li>
+        <li>
+         <a class="a15i320b" href="https://apps.apple.com/app/apple-store/id1344785590?pt=103410801&amp;ct=chordify-website-footer&amp;mt=8" rel="nofollow" target="_blank">
+          Karang -
+          <!-- -->
+          Tuner for Guitar
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="cjan7v3">
+       <ul class="u17hr3ic">
+        <li>
+         <a class="a15i320b" href="/pages/academy/music-dictionary/">
+          Music Dictionary
+         </a>
+        </li>
+        <li>
+         <a class="a15i320b" href="/chord-diagrams/guitar">
+          Chord Diagram Finder
+         </a>
+        </li>
+        <li>
+         <a class="a15i320b" href="/pages/songs-explained/">
+          Songs explained
+         </a>
+        </li>
+        <li>
+         <a class="a15i320b" href="/channels">
+          Channels
+         </a>
+        </li>
+        <li>
+         <a class="a15i320b" href="/channels/featured">
+          Featured Songs
+         </a>
+        </li>
+        <li>
+         <a class="a15i320b" href="/artists">
+          Artists
+         </a>
+        </li>
+        <li>
+         <a class="a15i320b" href="/pages/advertising/" rel="nofollow">
+          Advertise
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="cjan7v3">
+       <ul class="u17hr3ic">
+        <li>
+         <a class="a15i320b" href="/pages/about/">
+          About Chordify
+         </a>
+        </li>
+        <li>
+         <a class="a15i320b" href="https://jobs.chordify.net" rel="nofollow" target="_blank">
+          Jobs
+         </a>
+        </li>
+        <li>
+         <a class="a15i320b" href="https://chordify.pr.co/en" rel="nofollow" target="_blank">
+          Press
+         </a>
+        </li>
+        <li>
+         <a class="a15i320b" href="/pages/terms-and-conditions/">
+          Terms and Conditions
+         </a>
+        </li>
+        <li>
+         <a class="a15i320b" href="/pages/privacy-policy/" rel="nofollow">
+          Privacy Statement
+         </a>
+        </li>
+        <li>
+         <a class="a15i320b" href="#consent" rel="nofollow">
+          Your privacy settings
+         </a>
+        </li>
+       </ul>
+      </div>
+     </footer>
+    </div>
+   </main>
+  </div>
+  <script type="text/javascript">
+   window.__MERGE_DATA__({"lang":"en","props":{"blogPosts":[{"url":"https:\/\/chordify.net\/pages\/top-songs-of-july\/","title":"Filipino rapper Lo Ki enters the 10 top songs of July","description":"\nWhen it comes to the 10 top songs that were most played on Chordify during July, you might suspect the list would be full of happy summer campfire fiddles. Think again. Last month our community showed how eclectic their taste is, from movie themes to the Filipino rap tunes of Lo Ki. Enjoy!","date":1660298400,"img":"https:\/\/chordify.net\/pages\/wp-content\/uploads\/2022\/08\/Featured-image-July-top-10-624x421.jpg","thumbnail":"https:\/\/chordify.net\/pages\/wp-content\/uploads\/2022\/08\/Featured-image-July-top-10-150x150.jpg"},{"url":"https:\/\/chordify.net\/pages\/summer-vibes\/","title":"Keep it cool with these summer vibes","description":"\nIt\u2019s getting hot in here! Time to turn on the airco and keep it cool with the songs that will definitely get your summer vibes on. We\u2019ve selected five tracks from our Summer Songs channel, so if you just can\u2019t get enough after reading this blog post, you know where you can get more.","date":1660111200,"img":"https:\/\/chordify.net\/pages\/wp-content\/uploads\/2020\/07\/SummerSale_Blog-624x416.jpg","thumbnail":"https:\/\/chordify.net\/pages\/wp-content\/uploads\/2020\/07\/SummerSale_Blog-150x150.jpg"}],"faqSectionEnabled":false,"forceToApp":false,"jingleBellsEnabled":false,"unlockedLastPlayedSong":null,"userTier":{"plays30_remaining":1,"tier_group":null,"plays_after_registration":3,"base_tier":"unregistered","play_quota":{"views_after_registration":5,"plays_after_registration":3,"plays_maximum":1,"can_play":true,"can_view":true,"plays_remaining":1,"views_remaining":3,"views_maximum":3},"google_experiment_number":null}},"state":{"toasts":[],"users":{"justSignedUp":false,"type":"anonymous","user":null},"config":{"adminAs":null,"basename":"\/","country":"AR","csrf":"CSRF_PLACEHOLDER","currency":"ARS","deviceName":"unknown","disableAds":false,"env":"live","isBot":false,"page":"chordspage","userLocale":"en-US","vkontakte":false,"adsViolation":null,"canSetDefault":false,"editId":null,"AB":null,"location":"\/chords\/avantasia-songs\/let-the-storm-descend-upon-you-chords"},"campaigns":{"site_wide":{"handle":"summer-sale-2022","image_url":"\/img\/campaigns\/567e5c0ebd0c25b897e24dcca36a64860657a335.jpg","banner_background_color":"#F8F8F8","show_countdown":false,"title":"Summer Sale! Enjoy 50% off Premium","popup_image_url":"\/img\/campaigns\/929a3938d9a73e9ca82de05d718aa03e9a2538e4.jpg","is_site_wide":true,"is_active":true,"end_date":"2022-08-31T23:59:00Z","banner_image_url":"\/img\/campaigns\/1e7c0a97534d6e5f689f541a801bbd47710edb59.jpg","start_date":"2022-07-01T00:01:00Z","subtitle":"Summertime means campfire serenades, and late night park jams. Master your favorite summer songs in a heartbeat with Chordify Premium. Enjoy 50% off now!","light_text":true,"pricing_category":"discount:year:50:one_off","target":null}},"onboarding":{"answers":null},"player":{"currentDefaultEdit":false,"songAbstract":{"streamUrl":"https:\/\/www.youtube.com\/watch?v=3ZJgUvhhKpE","slug":"let-the-storm-descend-upon-you-avantasia-topic-2","capoHints":{"guitar":null,"ukulele":null},"grants":{"downloadable":false,"premiumFeatures":false,"noPlayQuota":false},"hasEdits":false,"isInChannel":false,"blogLink":null,"noads":false,"sourceDeleted":false,"externalId":"3ZJgUvhhKpE","songInfo":{"title":"Avantasia - Let the Storm Descend Upon You","thumbnailUrl":"https:\/\/img.youtube.com\/vi\/3ZJgUvhhKpE\/mqdefault.jpg","jamSessions":150,"artworkUrl":"https:\/\/i.ytimg.com\/vi\/3ZJgUvhhKpE\/maxresdefault.jpg","source":"youtube"},"externalUrl":"https:\/\/www.youtube.com\/watch?v=3ZJgUvhhKpE","chordSummary":["Ab:maj","F:min","D:min","C:maj"],"chordInfo":{"derivedBpm":158,"derivedKey":"F:maj","tuningEstimate":440.25422738288415,"barLength":4},"noindex":false,"artists":[{"slug":"avantasia","name":"Avantasia","imageUrl":"https:\/\/i.ytimg.com\/vi\/quH_vUCdy2o\/hqdefault.jpg"}],"pseudoId":"youtube:3ZJgUvhhKpE","recordingMetadata":{"performers":[],"genres":[],"recordingTitle":"Let the Storm Descend Upon You","firstReleaseYear":null,"recordingArtist":"Avantasia"}},"songUserInfo":null},"channels":{"premiumSongs":[{"slug":"future-wait-for-u-official-music-video-ft-drake-tems-futurevevo","derived_key":"Db:maj","derived_bpm":86,"beatTrackerVersion":"v10.0.0-6-g745d679","song_visibility":"visible","jam_sessions":3516,"algorithmVersion":"defaultedit","type":"youtube","tuningEstimate":{"tuningConfidence":0.3940695198252633,"tuningEstimatedChamberTone":436.20415848357123},"has_edits":true,"link":"\/chords\/future-wait-for-u-official-music-video-ft-drake-tems-futurevevo","created":"2022-05-05T19:26:43.000Z","user_library":null,"deleted_dmca":false,"external_id":"rP09GUQFDFk","metadata":{"thumbnail_url":"https:\/\/i.ytimg.com\/vi\/rP09GUQFDFk\/default.jpg","artwork_url":"https:\/\/i.ytimg.com\/vi\/rP09GUQFDFk\/hqdefault.jpg","title":"Future - WAIT FOR U (Official Music Video) ft. Drake, Tems","isrc":null,"downloadable":false,"permalink_url":"https:\/\/www.youtube.com\/watch?v=rP09GUQFDFk","stream_url":"https:\/\/www.youtube.com\/watch?v=rP09GUQFDFk","publisher":"FutureVEVO","duration":239,"artist":null},"deleted":false,"pseudoId":"youtube:rP09GUQFDFk","barLength":4,"chord_summary":["Gb:maj7","Db:maj7","Bb:min7","F:min7"]},{"slug":"kendrick-lamar-die-hard-lyrics-ft-blxst-amanda-reifer-little-lyrics","derived_key":"E:maj","derived_bpm":100,"beatTrackerVersion":"v10.0.0-6-g745d679","song_visibility":"visible","jam_sessions":2571,"algorithmVersion":"defaultedit","type":"youtube","tuningEstimate":{"tuningConfidence":0.6195212508875532,"tuningEstimatedChamberTone":440.7631229032662},"has_edits":true,"link":"\/chords\/kendrick-lamar-die-hard-lyrics-ft-blxst-amanda-reifer-little-lyrics","created":"2022-05-13T10:09:25.000Z","user_library":null,"deleted_dmca":false,"external_id":"KxF2Ji3AqIw","metadata":{"thumbnail_url":"https:\/\/i.ytimg.com\/vi\/KxF2Ji3AqIw\/default.jpg","artwork_url":"https:\/\/i.ytimg.com\/vi\/KxF2Ji3AqIw\/hqdefault.jpg","title":"Kendrick Lamar - Die Hard (Lyrics) Ft. Blxst & Amanda Reifer","isrc":null,"downloadable":false,"permalink_url":"https:\/\/www.youtube.com\/watch?v=KxF2Ji3AqIw","stream_url":"https:\/\/www.youtube.com\/watch?v=KxF2Ji3AqIw","publisher":"LITTLE LYRICS","duration":280,"artist":null},"deleted":false,"pseudoId":"youtube:KxF2Ji3AqIw","barLength":4,"chord_summary":["F#:min7","G#:min7","A:maj7","B:maj"]},{"slug":"morgan-wallen-you-proof-lyrics-country-music-new","derived_key":"A:maj","derived_bpm":120,"beatTrackerVersion":"v10.0.0-6-g745d679","song_visibility":"visible","jam_sessions":3183,"algorithmVersion":"defaultedit","type":"youtube","tuningEstimate":{"tuningConfidence":0.5958809419164823,"tuningEstimatedChamberTone":440.5086016556823},"has_edits":true,"link":"\/chords\/morgan-wallen-you-proof-lyrics-country-music-new","created":"2022-05-13T15:17:44.000Z","user_library":null,"deleted_dmca":false,"external_id":"2_Es3SgqqeE","metadata":{"thumbnail_url":"https:\/\/i.ytimg.com\/vi\/2_Es3SgqqeE\/default.jpg","artwork_url":"https:\/\/i.ytimg.com\/vi\/2_Es3SgqqeE\/hqdefault.jpg","title":"Morgan Wallen - You Proof (Lyrics)","isrc":null,"downloadable":false,"permalink_url":"https:\/\/www.youtube.com\/watch?v=2_Es3SgqqeE","stream_url":"https:\/\/www.youtube.com\/watch?v=2_Es3SgqqeE","publisher":"Country Music New","duration":158,"artist":null},"deleted":false,"pseudoId":"youtube:2_Es3SgqqeE","barLength":4,"chord_summary":["D:maj","F#:min7","A:maj"]},{"slug":"kendrick-lamar-ft-kodak-black-silent-hill-music-video-savage-mode","derived_key":"C#:min","derived_bpm":143,"beatTrackerVersion":"v10.0.0-6-g745d679","song_visibility":"visible","jam_sessions":3765,"algorithmVersion":"defaultedit","type":"youtube","tuningEstimate":{"tuningConfidence":0.6560947347163839,"tuningEstimatedChamberTone":442.5488940698555},"has_edits":true,"link":"\/chords\/kendrick-lamar-kodak-black-songs\/silent-hill-chords","created":"2022-05-14T23:43:13.000Z","user_library":null,"deleted_dmca":false,"external_id":"EUd9jvdcbFo","metadata":{"thumbnail_url":"https:\/\/i.ytimg.com\/vi\/EUd9jvdcbFo\/default.jpg","artwork_url":"https:\/\/i.ytimg.com\/vi\/EUd9jvdcbFo\/maxresdefault.jpg","title":"Kendrick Lamar ft. Kodak Black - Silent Hill (Music Video)","isrc":null,"downloadable":false,"permalink_url":"https:\/\/www.youtube.com\/watch?v=EUd9jvdcbFo","stream_url":"https:\/\/www.youtube.com\/watch?v=EUd9jvdcbFo","publisher":"Savage Mode \u266a","duration":221,"artist":null},"deleted":false,"pseudoId":"youtube:EUd9jvdcbFo","barLength":4,"chord_summary":["F#:min7","C#:min7","F#:min"]},{"slug":"kendrick-lamar-united-in-grief-lyrics-futurehype","derived_key":"F:maj","derived_bpm":130,"beatTrackerVersion":"v10.0.0-6-g745d679","song_visibility":"visible","jam_sessions":3696,"algorithmVersion":"defaultedit","type":"youtube","tuningEstimate":{"tuningConfidence":0.4924064605463137,"tuningEstimatedChamberTone":440.25422738288415},"has_edits":true,"link":"\/chords\/kendrick-lamar-songs\/united-in-grief-chords","created":"2022-05-13T18:34:13.000Z","user_library":null,"deleted_dmca":false,"external_id":"NNojfg1Bv-8","metadata":{"thumbnail_url":"https:\/\/i.ytimg.com\/vi\/NNojfg1Bv-8\/default.jpg","artwork_url":"https:\/\/i.ytimg.com\/vi\/NNojfg1Bv-8\/maxresdefault.jpg","title":"Kendrick Lamar - United In Grief (Lyrics)","isrc":null,"downloadable":false,"permalink_url":"https:\/\/www.youtube.com\/watch?v=NNojfg1Bv-8","stream_url":"https:\/\/www.youtube.com\/watch?v=NNojfg1Bv-8","publisher":"FutureHype","duration":256,"artist":null},"deleted":false,"pseudoId":"youtube:NNojfg1Bv-8","barLength":4,"chord_summary":["Db:maj7","Bb:maj7","C:min7","G:maj"]},{"slug":"lizzo-about-damn-time-lyrics-vibe-music","derived_key":"Bb:min","derived_bpm":107,"beatTrackerVersion":"v10.0.0-6-g745d679","song_visibility":"visible","jam_sessions":5871,"algorithmVersion":"defaultedit","type":"youtube","tuningEstimate":{"tuningConfidence":0.4756226686073495,"tuningEstimatedChamberTone":440.25422738288415},"has_edits":true,"link":"\/chords\/lizzo-songs\/about-damn-time-chords","created":"2022-04-16T17:56:05.000Z","user_library":null,"deleted_dmca":false,"external_id":"HhQJrLbH6-4","metadata":{"thumbnail_url":"https:\/\/i.ytimg.com\/vi\/HhQJrLbH6-4\/default.jpg","artwork_url":"https:\/\/i.ytimg.com\/vi\/HhQJrLbH6-4\/hqdefault.jpg","title":"Lizzo - About Damn Time (Lyrics)","isrc":null,"downloadable":false,"permalink_url":"https:\/\/www.youtube.com\/watch?v=HhQJrLbH6-4","stream_url":"https:\/\/www.youtube.com\/watch?v=HhQJrLbH6-4","publisher":"Vibe Music","duration":192,"artist":null},"deleted":false,"pseudoId":"youtube:HhQJrLbH6-4","barLength":4,"chord_summary":["Eb:min7","F:min7","Gb:maj7","Bb:min7"]}],"relatedChannel":null},"recommendations":{"songRecommendations":[{"origin":"WzIsMF0","song":{"chordified":{"slug":"sacred-worlds-blind-guardian-topic","renamedTitle":null,"sourceDeleted":false,"link":"\/chords\/blind-guardian-songs\/sacred-worlds-chords","songInfo":{"title":"Sacred Worlds","thumbnailUrl":"https:\/\/i.ytimg.com\/vi\/e6Y2qGK--NI\/default.jpg","jamSessions":48,"artworkUrl":"https:\/\/i.ytimg.com\/vi\/e6Y2qGK--NI\/hqdefault.jpg","source":"youtube"},"chordSummary":["Eb:min","Ab:min","Gb:maj","Db:maj"],"pseudoId":"youtube:e6Y2qGK--NI"}}},{"origin":"WzIsMV0","song":{"chordified":{"slug":"the-seven-angels-avantasia-topic","renamedTitle":null,"sourceDeleted":false,"link":"\/chords\/avantasia-songs\/the-seven-angels-chords","songInfo":{"title":"The Seven Angels","thumbnailUrl":"https:\/\/i.ytimg.com\/vi\/kuQCeNyFr5c\/default.jpg","jamSessions":297,"artworkUrl":"https:\/\/i.ytimg.com\/vi\/kuQCeNyFr5c\/hqdefault.jpg","source":"youtube"},"chordSummary":["E:maj","B:maj","C#:min","G#:min"],"pseudoId":"youtube:kuQCeNyFr5c"}}},{"origin":"WzIsMl0","song":{"chordified":{"slug":"avantasia-mystery-of-a-blood-red-rose-official-video-nuclear-blast-records","renamedTitle":null,"sourceDeleted":false,"link":"\/chords\/avantasia-mystery-of-a-blood-red-rose-official-video-nuclear-blast-records","songInfo":{"title":"AVANTASIA - Mystery Of A Blood Red Rose (OFFICIAL VIDEO)","thumbnailUrl":"https:\/\/i.ytimg.com\/vi\/4w_58CQWHFQ\/default.jpg","jamSessions":429,"artworkUrl":"https:\/\/i.ytimg.com\/vi\/4w_58CQWHFQ\/hqdefault.jpg","source":"youtube"},"chordSummary":["Gb:maj","Ab:maj","Db:maj","Bb:min"],"pseudoId":"youtube:4w_58CQWHFQ"}}},{"origin":"WzIsM10","song":{"chordified":{"slug":"innerwish-cross-the-line-dimitris-milionis","renamedTitle":null,"sourceDeleted":false,"link":"\/chords\/innerwish-songs\/cross-the-line-chords","songInfo":{"title":"InnerWish - Cross The Line","thumbnailUrl":"https:\/\/i.ytimg.com\/vi\/1cZZB_jNN3k\/default.jpg","jamSessions":6,"artworkUrl":"https:\/\/i.ytimg.com\/vi\/1cZZB_jNN3k\/hqdefault.jpg","source":"youtube"},"chordSummary":["C:min","Ab:maj","F:min","G:maj"],"pseudoId":"youtube:1cZZB_jNN3k"}}},{"origin":"WzIsNF0","song":{"chordified":{"slug":"avantasia-ghost-in-the-moon-dvd-live-at-masters-of-rock-2019-mariosz18","renamedTitle":null,"sourceDeleted":false,"link":"\/chords\/avantasia-ghost-in-the-moon-dvd-live-at-masters-of-rock-2019-mariosz18","songInfo":{"title":"Avantasia - Ghost in the Moon (DVD Live at Masters of Rock 2019)","thumbnailUrl":"https:\/\/i.ytimg.com\/vi\/AySp7KZZiK4\/default.jpg","jamSessions":9,"artworkUrl":"https:\/\/i.ytimg.com\/vi\/AySp7KZZiK4\/hqdefault.jpg","source":"youtube"},"chordSummary":["Eb:maj","Db:maj","Ab:maj","Bb:maj"],"pseudoId":"youtube:AySp7KZZiK4"}}},{"origin":"WzIsNV0","song":{"chordified":{"slug":"avantasia-lost-in-space-nuclearblasteurope","renamedTitle":null,"sourceDeleted":false,"link":"\/chords\/avantasia-songs\/lost-in-space-chords","songInfo":{"title":"AVANTASIA - Lost In Space (OFFICIAL VIDEO)","thumbnailUrl":"https:\/\/i.ytimg.com\/vi\/o26SlmROH5Q\/default.jpg","jamSessions":519,"artworkUrl":"https:\/\/i.ytimg.com\/vi\/o26SlmROH5Q\/hqdefault.jpg","source":"youtube"},"chordSummary":["B:min","A:maj","G:maj","D:maj"],"pseudoId":"youtube:o26SlmROH5Q"}}}],"recommendationType":"standard"},"setlists":{"current":null,"list":null,"songStartIdx":0}}})
+  </script>
+  <div id="background">
+   <div id="bgDefault">
+   </div>
+  </div>
+ </body>
+</html>
